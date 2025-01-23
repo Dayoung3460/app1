@@ -11,7 +11,7 @@ public class App1Application {
 	
 	@GetMapping("/")
 	public String main() {
-		return "Docker app 1 >>>>> Hello";
+		return "Docker app 1 >>>>> Hello 수정: 250123 오후 4:13";
 	}
 	
 	public static void main(String[] args) {
